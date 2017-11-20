@@ -1,6 +1,6 @@
 
 const Discord = require("discord.js");
-const TOKEN = "MzY1MTMxNzU5NDUwMzI0OTky.DPQ8sg.1Ohof_WdmZW4tkKYkcrq09MTiW4";
+const TOKEN = "";
 const PREFIX = ".";
 const IMAGESERVER = "http://www.ultimecode.com/DiscordBot/ultimecode.png";
 const IMAGECUSTOM = "http://www.ultimecode.com/DiscordBot/custom.png";
