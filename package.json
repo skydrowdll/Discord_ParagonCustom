@@ -1,0 +1,14 @@
+{
+  "name": "Paragon-Custom",
+  "version": "1.0.0",
+  "description": "Custom Creator for Paragon Party",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "BlackSnow",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.1.0"
+  }
+}
