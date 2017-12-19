@@ -14,7 +14,7 @@ bot.on("ready", function() {
     console.log("Bot Created By Black Snow.");
 });
 
-bot.login(process.env.BOT_TOKEN);
+
 
 bot.on("message", function(message){
 
@@ -817,3 +817,4 @@ var contains = function(needle) {
 
     return indexOf.call(this, needle) > -1;
 };
+bot.login(process.env.BOT_TOKEN);
