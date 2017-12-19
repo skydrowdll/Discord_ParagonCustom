@@ -738,8 +738,6 @@ console.log("=============================");
   //  message.delete();
 });
 
-bot.login(TOKEN);
-
 String.prototype.isNumber = function(){return /^\d+$/.test(this);}
 
 function isEmpty(str) {
