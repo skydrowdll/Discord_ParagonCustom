@@ -441,7 +441,7 @@ bot.on("message", function(message){
                            .setAuthor("Custom paragon party creator", IMAGESERVER)
                            .addField("Team 1",""+team1txt+"",true)
                            .addField("Team 2",""+team2txt+"",true)
-                           .addField("Option","Si le resultat ne vous convient pas, écrivez ( .reload )",true)
+                           
                            .setColor(0x00FFFF)
                            .setImage(img)
                            .setFooter("Created By Black Snow | Ultimecode.com © 2017", IMAGESERVER)
@@ -706,7 +706,6 @@ console.log("=============================");
                            .setAuthor("Custom paragon party creator", IMAGESERVER)
                            .addField("Team 1",""+team1txt+"",true)
                            .addField("Team 2",""+team2txt+"",true)
-                           .addField("Option","Si le resultat ne vous convient pas, écrivez ( .reload )",true)
                            .setColor(0x00FFFF)
                            .setImage(img)
                            .setFooter("Created By Black Snow | Ultimecode.com © 2017", IMAGESERVER)
