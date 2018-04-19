@@ -11,7 +11,7 @@ var players = [];
 var elos = [];
 
 bot.on("ready", function() {
-    console.log("Bot Created By Black Snow.");
+    console.log("Bot Created By Black Snow <");
 });
 
 
